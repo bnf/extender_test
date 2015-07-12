@@ -1,5 +1,5 @@
-README
-======
+Test Extension for TYPO3: Testing DataMapper based Model Extension
+==================================================================
 
 ## Prinzip:
 * Nutzung des Extbase DataMappers
