@@ -25,6 +25,7 @@ Test Extension for the TYPO3 "extender"
 * Bei Änderungen am Code muss der System Cache geleert werden
 
 ## Alternatives
+* https://github.com/bnf/extender_test/tree/subclass
 * http://docs.typo3.org/typo3cms/extensions/news/DeveloperManual/ExtendNews/ProxyClassGenerator/Index.html
   Kopie der Mechanismen (und Code) von EXT:extender -> Nicht zu empfehlen, da Insellösung
 
