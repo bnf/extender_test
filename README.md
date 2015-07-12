@@ -13,9 +13,9 @@ Test Extension for the TYPO3 "extender"
 > The class cache gets generated on every hit where an configured compilation is not available and after every clear system cache. In both cases the class cache manager rebuilds the complete class cache.
 
 ## Konfiguration
-> $GLOBALS['TYPO3_CONF_VARS']['EXTCONF']['EXTKEY1']['extender']['CLASSNAME']['EXTKEY2'] =
->        'EXT:EXTKEY2/Classes/Domain/Model/CLASSNAME.php';
-
+<pre><code>$GLOBALS['TYPO3_CONF_VARS']['EXTCONF']['EXTKEY1']['extender']['CLASSNAME']['EXTKEY2'] =
+        'EXT:EXTKEY2/Classes/Domain/Model/CLASSNAME.php';
+</code></pre>
 ## Vorteil
 * Universal mit jeder Extbase Extension Nutzbar
 
