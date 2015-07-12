@@ -1,6 +1,6 @@
 <?php
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Qbus Extender Test',
+	'title' => 'Qbus Extender Test [News-Subclass]',
 	'description' => '',
 	'category' => '',
 	'author' => 'Benjamin Franzke',
@@ -23,7 +23,6 @@ $EM_CONF[$_EXTKEY] = array(
 			'fluid' => '6.2',
 			'typo3' => '6.2',
 			'news' => '3.0.0',
-			'extender' => '6.2.0',
 		),
 		'conflicts' => array(
 		),

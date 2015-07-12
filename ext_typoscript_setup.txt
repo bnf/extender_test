@@ -1,0 +1,13 @@
+config.tx_extbase.persistence.classes {
+	Qbus\ExtenderTestSubclass\Domain\Model\NewsDefault {
+		mapping {
+			tableName = tx_news_domain_model_news
+			recordType = 0
+		}
+	}
+	GeorgRinger\News\Domain\Model\News {
+		subclasses {
+			0 = Qbus\ExtenderTestSubclass\Domain\Model\NewsDefault
+		}
+	}
+}
