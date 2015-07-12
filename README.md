@@ -1,7 +1,7 @@
 Test Extension for TYPO3: Testing DataMapper based Model Extension
 ==================================================================
 
-## Prinzip:
+## Prinzip
 * Nutzung des Extbase DataMappers
 * Ableiten einer eigenen Klasse (Qbus\ExtenderTestSubclass\Domain\Model) von
   der News Klasse \GeorgRinger\News\Domain\Model\NewsDefault
@@ -16,5 +16,5 @@ Test Extension for TYPO3: Testing DataMapper based Model Extension
 * Kein Overhead (Der DataMapper wird ohnehin ausgeführt)
 
   
-## Resources:
+## Resources
 http://keinerweiss.de/525-die-extbase-extension-news-um-ein-feld-erweitern.html
