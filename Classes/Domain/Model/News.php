@@ -25,4 +25,15 @@ class News {
 	public function setTestProperty($testProperty) {
 		$this->testProperty = $testProperty;
 	}
+
+
+####### Not working: Cannot redeclare GeorgRinger\News\Domain\Model\News::getTitle() #######
+#	/**
+#	 * Get title (custom)
+#	 *
+#	 * @return string
+#	 */
+#	public function getTitle() {
+#		return "FOO";
+#	}
 }
