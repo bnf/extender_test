@@ -1,5 +1,5 @@
-README
-======
+Test Extension for the TYPO3 "extender"
+=======================================
 
 ## Motivation
 
