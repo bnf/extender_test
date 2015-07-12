@@ -14,4 +14,4 @@ TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addTCAcolumns("tx_news_domain
 	),
 ));
 
-TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes("tx_news_domain_model_news", "test_property", '', 'after:title');
+TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addToAllTCAtypes("tx_news_domain_model_news", "test_property;;;;1-1-1", '', 'after:teaser');
