@@ -24,6 +24,10 @@ Test Extension for the TYPO3 "extender"
 * Overhead durch zusätzlichen autoloader
 * Bei Änderungen am Code muss der System Cache geleert werden
 
+## Alternatives
+* http://docs.typo3.org/typo3cms/extensions/news/DeveloperManual/ExtendNews/ProxyClassGenerator/Index.html
+  Kopie der Mechanismen (und Code) von EXT:extender -> Nicht zu empfehlen, da Insellösung
+
 ## Resources
 http://typo3.org/extensions/repository/view/extender
 http://docs.typo3.org/typo3cms/extensions/extender/Introduction/Index.html
