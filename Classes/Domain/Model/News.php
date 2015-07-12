@@ -1,5 +1,5 @@
 <?php
-namespace GeorgRinger\News\Domain\Model;
+namespace Qbus\ExtenderTest\News\Domain\Model;
 
 class News {
 	/**
