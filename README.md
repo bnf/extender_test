@@ -20,7 +20,9 @@ Test Extension for the TYPO3 "extender"
 * Universal mit jeder Extbase Extension Nutzbar
 
 ## Nachteil
-* Keine 
+* Keine überladen/überschreiben von gettern/settern möglich
+* Overhead durch zusätzlichen autoloader
+* Bei Änderungen am Code muss der System Cache geleert werden
 
 ## Resources
 http://typo3.org/extensions/repository/view/extender
